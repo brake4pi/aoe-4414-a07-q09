@@ -13,7 +13,7 @@
 # Output:
 #  A description of the script output
 #
-# Written by First Last
+# Written by Lee Wallenfang
 # Other contributors: None
 #
 # Optional license statement, e.g., See the LICENSE file for the license.
