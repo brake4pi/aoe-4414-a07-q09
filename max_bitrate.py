@@ -24,7 +24,7 @@ import sys # argv
 import math
 # "constants"
 #R_E_KM = 6378.137
-transmitter_to_antenna_loss = 0.79 # dB
+transmitter_to_antenna_loss = 1 # dB
 speed_of_light = 2.99792458e8 # m/s
 atm_loss = 1 # dB
 # helper functions
