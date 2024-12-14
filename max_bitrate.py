@@ -63,7 +63,8 @@ else:
 # B: Bandwidth
 # C: Signal Power over bandwidth
 # N: Noise Power over bandwidth
-
+rx_gain_db = 10**(rx_gain_db/10)
+tx_gain_db = 10**(tx_gain_db/10) 
 B = bw_hz
 N = n0_j*B
 channel_wavelength = speed_of_light/freq_hz
